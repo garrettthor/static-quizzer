@@ -1105,33 +1105,6 @@ const myQuestions = [
     {
         question: '(Skull Island Prawns) Select correct answer',
         answers: {
-            a: 'Gluten Free',
-            b: 'GF with mod',
-        },
-        correctAnswer: 'a'
-    },
-
-    {
-        question: '(Skull Island Prawns) Select correct answer',
-        answers: {
-            a: 'Gluten Free',
-            b: 'GF with mod',
-        },
-        correctAnswer: 'a'
-    },
-
-    {
-        question: '(Skull Island Prawns) Select correct answer',
-        answers: {
-            a: 'Gluten Free',
-            b: 'GF with mod',
-        },
-        correctAnswer: 'a'
-    },
-
-    {
-        question: '(Skull Island Prawns) Select correct answer',
-        answers: {
             a: 'Nut Free',
             b: 'Nut free with mod',
         },
@@ -1172,6 +1145,17 @@ const myQuestions = [
         answers: {
             a: 'Gluten Cross-contamination',
             b: 'Not an issue',
+        },
+        correctAnswer: 'b'
+    },
+
+    {
+        question: 'Where is Skull island?',
+        answers: {
+            a: 'Northern Australia',
+            b: 'New Zealand',
+            c: 'The Falkland Islands',
+            d: 'It\'s made up to sound cool.'
         },
         correctAnswer: 'a'
     },
@@ -1650,7 +1634,7 @@ const myQuestions = [
             a: 'Gluten Cross-contamination',
             b: 'It is already GF, so not an issue, playaboi.',
         },
-        correctAnswer: ''
+        correctAnswer: 'b'
     },
 
     {
@@ -1900,7 +1884,7 @@ const myQuestions = [
             b: 'Vegan with mod',
             c: 'Neither.'
         },
-        correctAnswer: 'b'
+        correctAnswer: 'c'
     },
 
     {
