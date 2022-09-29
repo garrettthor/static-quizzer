@@ -732,7 +732,7 @@ const myQuestions = [
         question: '(Crispy Chicken Wings) Select correct answer',
         answers: {
             a: 'Nut free',
-            b: 'Nut free wiht mod: no peanuts'
+            b: 'Nut free with mod: no peanuts'
         },
         correctAnswer: 'b'
     },
@@ -770,9 +770,9 @@ const myQuestions = [
         question: '(Crispy Chicken Wings) Select correct answer',
         answers: {
             a: 'Gluten cross-contamination',
-            b: 'N/A it\'s already gultenous (breading)'
+            b: 'N/A it\'s already gultenous (batter)'
         },
-        correctAnswer: 'a'
+        correctAnswer: 'b'
     },
 
     {
@@ -1048,7 +1048,7 @@ const myQuestions = [
             a: 'Vegan',
             b: 'Vegan with modification'
         },
-        correctAnswer: 'b'
+        correctAnswer: 'a'
     },
 
       {
