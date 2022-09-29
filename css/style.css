@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+    background-color: rgb(222, 222, 222);
+    font-family:'Roboto', sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+.slide {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    z-index: 1;
+    opacity: 0;
+    transition: opacity 0.5s;
+}
+
+.active-slide {
+    opacity: 1;
+    z-index: 2;
+}
+
+.quiz-container {
+    position: relative;
+    height: 200px;
+    margin-top: 40px;
+}
+
+.answers label{
+    display: block;e
+}
+
+button {
+    display: block;
+    background: teal;
+    color: white;
+    border: 0px;
+    height: 3rem;
+    width: 10rem;
+    border-radius: 3px;
+}
