@@ -775,27 +775,301 @@ const myQuestions = [
         correctAnswer: 'a'
     },
 
-
-
     {
-        question: '',
+        question: '(Wild Mushroom Congee) Prep: ______ rice is broken in a food processor, then marinated in ___ puree and cooked slowly in a _______ stock.',
         answers: {
-            a: '',
-            b: ''
+            a: 'Arborio, leek, mushroom',
+            b: 'Pilaf, onion, veggie',
+            c: 'Wild, shallot, savory',
+            d: 'White, mushroom, vegan bone broth'
         },
-        correctAnswer: ''
+        correctAnswer: 'a'
     },
 
     {
-        question: '',
+        question: '(Wild Mushroom Congee) The congee is finished with a variety of roasted mushrooms, salt, _____, and fresh ______.',
         answers: {
-            a: '',
-            b: '',
-            c: '',
-            d: ''
+            a: 'cream, lime',
+            b: 'coconut milk, vinegar',
+            c: 'butter, lemon',
+            d: 'milk, finger lime'
         },
-        correctAnswer: ''
+        correctAnswer: 'c'
     },
+
+    {
+        question: '(Wild Mushroom Congee) Garnish: Roasted mushrooms, cirspy garlic, crispy shallots, _____ chives, cilantro leaves, and raw ___________ in the center.',
+        answers: {
+            a: 'green onion, duck egg yolk',
+            b: 'Vietnamese onion, goose egg yolk',
+            c: 'Chino Farms onion, platypus egg yolk',
+            d: 'garlic, chicken egg yolk'
+        },
+        correctAnswer: 'd'
+    },
+
+    {
+        question: '(Wild Mushroom Congee) On side: A small ramekin of Spicy ________ Sauce.',
+        answers: {
+            a: `"Sim"bal`,
+            b: `"Soom"bal`,
+            c: `Sriracha`,
+            d: 'Spicy Rooster'
+        },
+        correctAnswer: 'a'
+    },
+    
+    {
+        question: '(Wild Mushroom Congee) Select correct answer',
+        answers: {
+            a: 'Gluten Free',
+            b: 'GF with mod'
+        },
+        correctAnswer: 'a'
+    },
+
+    {
+        question: '(Wild Mushroom Congee) Select correct answer',
+        answers: {
+            a: 'Nut Free',
+            b: 'Nut free with mod'
+        },
+        correctAnswer:'a',
+    },
+        
+    {
+        question: '(Wild Mushroom Congee) Select correct answer',
+        answers: {
+            a: 'Dairy Free',
+            b: 'Dairy free with mod: no butter'
+        },
+        correctAnswer: 'b'
+    },
+
+    {
+        question: '(Wild Mushroom Congee) Select correct answer',
+        answers: {
+            a: 'Vegetarian',
+            b: 'Vegetarian with mod'
+        },
+        correctAnswer: 'a'
+    },
+
+    {
+        question: '(Wild Mushroom Congee) Select correct answer',
+        answers: {
+            a: 'Vegan',
+            b: 'Vegan with mod: no butter, no egg'
+        },
+        correctAnswer: 'a'
+    },
+
+    {
+        question: '(Grilled and Smoked Eggplant) The eggplant is in two forms:  1.) there is a burnt/smokey eggplant _____ on the bottom.  2.)  Grilled pieces of eggplant on top.',
+        answers: {
+            a: 'puree',
+            b: 'sauce',
+            c: 'juice',
+            d: 'molecular vapor'
+        },
+        correctAnswer: 'a'
+    },
+
+    {
+        question: '(Grilled and Smoked Eggplant) ________ is made with a variety of mushrooms, chilies, _____, vinegar, onion, and garlic.',
+        answers: {
+            a: 'Eggplant Barbeque sauce, soy sauce',
+            b: 'XO sauce, tamari',
+            c: 'VSOP sauce, hoisin',
+            d: 'House Eggplant Sauce, vegan bone broth'
+        },
+        correctAnswer: 'b'
+    },
+
+    {
+        question: '(Grilled and Smoked Eggplant) __________ - secondary sauce made by roasting a bunch of different ____ vegetables until super golden brown and simmering it with ___________.',
+        answers: {
+            a: 'Hoisin, raw, sesame seeds',
+            b: 'Rich soy sauce, fermented, salt water',
+            c: 'Vegetable stock, fresh, butter',
+            d: 'Vegetable demi, root, seaweed'
+        },
+        correctAnswer: 'd'
+    },
+
+    {
+        question: '(Grilled and Smoked Eggplant) Garnish: Green onions, pickled ______, cilantro stems, ______  oil, fresh lemon juice, and ___________.',
+        answers: {
+            a: 'ramps, cilantro, jalapeno, puffed bulgur wheat',
+            b: 'garlic, Thai chili, toasted quinoa',
+            c: 'greens, sesame, puffed rice grains',
+            d: 'rhubarb, olive, toasted winter wheat'
+        },
+        correctAnswer: 'a'
+    },
+
+    {
+        question: '(Grilled and Smoked Eggplant) Select correct answer',
+        answers: {
+            a: 'Gluten Free',
+            b: 'GF with mods: no bulgar wheat'
+        },
+        correctAnswer: 'b'
+    },
+
+    {
+        question: '(Grilled and Smoked Eggplant) Select correct answer',
+        answers: {
+            a: 'Nut free',
+            b: 'Nut free with mods'
+        },
+        correctAnswer: 'a'
+    },
+
+    {
+        question: '(Grilled and Smoked Eggplant) Select correct answer',
+        answers: {
+            a: 'Dairy free',
+            b: 'Dairy free with mods'
+        },
+        correctAnswer: 'a'
+    },
+    {
+        question: '(Grilled and Smoked Eggplant) Select correct answer',
+        answers: {
+            a: 'Vegetarian',
+            b: 'Vegetarian with mods',
+            c: 'this is obvi vegetarian, but is not "circled" on the answer sheet... be cautious'
+        },
+        correctAnswer: 'c'
+    },
+
+    {
+        question: '(Grilled and Smoked Eggplant) Select correct answer',
+        answers: {
+            a: 'Vegan',
+            b: 'Vegan with mods'
+        },
+        correctAnswer: 'a'
+    },
+
+    {
+        question: '(Grilled and Smoked Eggplant) Select correct answer',
+        answers: {
+            a: 'Gluten cross-contamination',
+            b: 'Not so much.  Remove the bulger wheat and nothing else comes into contact with those glutens.'
+        },
+        correctAnswer: 'b'
+    },
+
+    {
+        question: '(Vietnamese Curry) The _______, _________, and __________________ are all roasted with olive oil and salt.',
+        answers: {
+            a: 'carrots, cauliflower, morning glory',
+            b: 'beets, brocoli, star anise',
+            c: 'rhubarb, kohrabi, safron',
+            d: 'zuchini, brussel sprouts, curry powder'
+        },
+        correctAnswer: 'a'
+    },
+
+    {
+        question: '(Vietnamese Curry) Vegetarian curry broth made from French _____ leaves, lemongrass, garlic, shallots, ______ lime, __________ milk, and sugar',
+        answers: {
+            a: 'basil, finger, goat',
+            b: 'eucalyptus, Chino Farms, oat',
+            c: 'curry, kaffir, coconut',
+            d: 'vanilla, lemon-, lactose-free'
+        },
+        correctAnswer: 'c'
+    },
+    
+    {
+        question: '(Vietnamese Curry) Garnish: Cilantro leaves, pickled _______________, and _____ chili slices.',
+        answers: {
+            a: 'white pearl onions, Thai',
+            b: 'green onion chives, Jalapeno',
+            c: 'baby leeks, Serano',
+            d: 'red pearl onions, Fresno'
+        },
+        correctAnswer: 'd'
+    },
+
+    {
+        question: '(Vietnamese Curry) One the side: Toasted ______ for dipping in the broth.',
+        answers: {
+            a: 'baguette',
+            b: 'puffed rice cracker',
+            c: 'quinoa stick. you heard me.',
+            d: 'San Fransisco Sourdough'
+        },
+        correctAnswer: 'a'
+    },
+
+    {
+        question: '(Vietnamese Curry) Select the correct answer',
+        answers: {
+            a: 'Gluten Free',
+            b: 'Gluten free wiht mod: no baguette, sub rice'
+        },
+        correctAnswer: 'b'
+    },
+
+    {
+        question: '(Vietnamese Curry) Select the correct answer',
+        answers: {
+            a: 'Nut free',
+            b: 'Nut free with mods'
+        },
+        correctAnswer: 'a'
+    },
+
+    {
+        question: '(Vietnamese Curry) Select the correct answer',
+        answers: {
+            a: 'Dairy Free',
+            b: 'Dairy free with mods'
+        },
+        correctAnswer: 'a'
+    },
+
+    {
+        question: '(Vietnamese Curry) Select the correct answer',
+        answers: {
+            a: 'Vegetarian',
+            b: 'Vegetarian with mods'
+        },
+        correctAnswer: 'a'
+    },
+
+    {
+        question: '(Vietnamese Curry) Select the correct answer',
+        answers: {
+            a: 'Vegan',
+            b: 'Vegan with modification'
+        },
+        correctAnswer: 'b'
+    },
+
+      {
+        question: '(Vietnamese Curry) Select the correct answer',
+        answers: {
+            a: 'Gluten cross-contamination',
+            b: 'No cross-contamination issues, as long as the baguette is left off'
+        },
+        correctAnswer: 'b'
+    },
+
+    // {
+    //     question: '',
+    //     answers: {
+    //         a: '',
+    //         b: '',
+    //         c: '',
+    //         d: ''
+    //     },
+    //     correctAnswer: ''
+    // },
 
 ]
 
