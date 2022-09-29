@@ -30,7 +30,8 @@ h1{
 }
 
 .answers label{
-    display: block;e
+    display: block;
+    margin: 0.5rem;
 }
 
 button {
