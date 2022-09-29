@@ -58,7 +58,7 @@ function showResults(){
             numCorrect++;
 
             // color the answer green
-            answerContainers[questionNumber].style.color = 'lightgreen';
+            answerContainers[questionNumber].style.color = 'green';
         } else {
             
             // if answer is wrong or blank
@@ -367,7 +367,7 @@ const myQuestions = [
     },    
 
     {
-        question: '(Poached shrimp) Salad of shaved __________, _________, raw stone fruit, and spunk _______.',
+        question: '(Poached shrimp) Salad of shaved __________, _________, raw stone fruit, and spun _______.',
         answers: {
             a: 'green papaya, banana blossoms, kohrabi',
             b: 'cucumber, zuchini blossoms, broccolini',
@@ -775,7 +775,7 @@ const myQuestions = [
         correctAnswer: 'a'
     },
 
-    
+
 
     {
         question: '',
