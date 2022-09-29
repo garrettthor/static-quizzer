@@ -37,8 +37,6 @@ h1{
 .button-container{
     margin-top: 3rem;
     padding: 1rem;
-    background-color: bisque;
-    display: flex;
 }
 
 button {
@@ -49,4 +47,5 @@ button {
     height: 3rem;
     width: 10rem;
     border-radius: 3px;
+    font-size: 1rem;
 }

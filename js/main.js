@@ -2100,7 +2100,6 @@ const myQuestions = [
         answers: {
             a: 'Gluten Cross-contamination',
             b: 'N/a, it has flour so it is a gluten.  ALL THE GLUTEN!',
-            c: '',
         },
         correctAnswer: 'b'
     }
